@@ -1,11 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import DisplayPerson from "./components/DisplayPerson";
 
 function App() {
   return (
     <div className="App">
-      
+      <DisplayPerson />
     </div>
   );
 }
