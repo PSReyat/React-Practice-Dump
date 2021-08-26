@@ -1,0 +1,10 @@
+.col-5 {
+  box-sizing: border-box;
+  float: right;
+  padding: 10px;
+  border: 1px;
+}
+
+tbody {
+  cursor: pointer;
+}
